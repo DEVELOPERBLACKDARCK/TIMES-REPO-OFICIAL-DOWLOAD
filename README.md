@@ -67,52 +67,7 @@ La función que nos distingue de cualquier otra red social del mundo:
 - Nuevos seguidores, likes, comentarios, menciones y mensajes
 - Permisos de notificación gestionados de forma clara desde el primer uso
 
----
-
-## 🛠️ Tecnología
-
-| Capa | Tecnología |
-|---|---|
-| App Android | Java, Android SDK (minSdk 24, targetSdk 35) |
-| Backend / Base de datos |SERVICIOS PROPIOS
-| Autenticación | BLACKDARCK AUTENTICACION |
-| Notificaciones push | Firebase Cloud Messaging |
-| Imágenes y video | [ |
-| UI | Material Components, ConstraintLayout, RecyclerView |
-| Multimedia | Media3 ExoPlayer, Glide |
-
----
-
-## 🚀 Instalación (para desarrolladores)
-
-### Requisitos
-- Android Studio (última versión estable)
-- JDK 17
-- Cuenta de Firebase propia (o acceso al proyecto del equipo)
-- Cuenta de Cloudinary (para subida de imágenes)
-
-### Pasos
-
-```bash
-git clone https://github.com/<tu-usuario>/TIMESTAP.git
-cd TIMESTAP
-```
-
-1. Agrega tu propio `google-services.json` dentro de `app/` (descárgalo desde la consola de Firebase de tu proyecto).
-2. Configura tus credenciales de Cloudinary en el código donde corresponda.
-3. Abre el proyecto en Android Studio y deja que sincronice Gradle.
-4. Ejecuta la app en un emulador o dispositivo físico con **Run ▶**.
-
-> ⚠️ El proyecto **no incluye** el keystore de firma ni las credenciales reales (`keystore.properties`, `google-services.json`) por seguridad — cada desarrollador debe usar las suyas.
-
----
-
-
----
-
-
-
----
+<<<< INSTALA YA TIMES Y EMPIEZA A VIVIR LA EXPERIENCIA>>><<
 
 ## 👨‍💻 Autor
 
